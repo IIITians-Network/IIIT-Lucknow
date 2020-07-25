@@ -1,7 +1,11 @@
 .clubs-social {
-    color: #666666;
+    color: #666666aa;
     margin: auto 4px;
 }
 .clubs-social:hover {
     color: #222222;
+}
+.clubs-title {
+    font-family: 'Montserrat', sans-serif;
+    color: #000000;
 }
